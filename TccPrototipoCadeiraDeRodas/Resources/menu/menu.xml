@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools">
+	<item
+		android:id="@+id/btnMenuTelaDefinicoes"
+		android:icon="@drawable/iconusuario"
+		android:showAsAction="always"
+		android:title="Definições"/>
+	<item
+		android:id="@+id/btnMenuAlerta"
+		android:icon="@drawable/iconalerta"
+		android:showAsAction="ifRoom"
+		android:title="Alerta de emergência"/>
+</menu>

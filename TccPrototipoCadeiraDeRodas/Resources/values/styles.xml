@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<resources>
+	<style parent="Theme.AppCompat.Light.DarkActionBar" name="AppThemeDarkActionBar">
+		<item name="colorPrimary">#000000</item>
+		<item name="colorPrimaryDark">#db7a15</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+	<style parent="Theme.AppCompat.Light.NoActionBar" name="AppThemeNoActionBar">
+		<item name="colorPrimary">#000000</item>
+		<item name="colorPrimaryDark">#db7a15</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+	<style parent="Theme.AppCompat.Light.DarkActionBar" name="SplashScreen">
+		<item name="android:windowBackground">@drawable/splashscreen</item>
+		<item name="android:windowFullscreen">true</item>
+	</style>
+	<style parent="@android:style/Theme.Holo.Light.DarkActionBar" name="ActionBar">
+		<item name="colorPrimary">#000000</item>
+		<item name="colorPrimaryDark">#db7a15</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+</resources>
